@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>CustomModes.API</AssemblyName>
+    <RootNamespace>CustomModes.API</RootNamespace>
+    <!-- Bump only for breaking API changes: other mods compile against this assembly. -->
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+</Project>

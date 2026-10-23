@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>DinnerRush</AssemblyName>
+    <RootNamespace>DinnerRush</RootNamespace>
+    <Version>0.1.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CustomModes.API\CustomModes.API.csproj" Private="false" />
+  </ItemGroup>
+</Project>
